@@ -1,2 +1,2 @@
 # Hidden files
-*.h
+arduino_secrets.h
